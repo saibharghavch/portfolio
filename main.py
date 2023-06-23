@@ -13,3 +13,8 @@ with col2:
     at Larsen and Toubro Infotech in India and did my bachelors in Electrical Engineering at VNR VJIET
     """
     st.info(content)
+
+content2= """
+Below you can find some of the apps that I have built using Python. Feel free to contact me!
+"""
+st.write(content2)
